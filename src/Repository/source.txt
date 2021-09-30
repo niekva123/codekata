@@ -1,0 +1,19 @@
+XXXXXXXXXXXXXXXXXXXXX
+X A       A   A A   X
+X A AAAAA A A A A A X
+J   A     A A A A A X
+XAAAA AAAAA A A A A X
+X   A     A A A   A X
+X A AAAAA A A AAAAA X
+X A B   A   A       X
+X AAAAAAAAAAA AAAAAAX
+X           A   A   X
+X AAAAAAAAA AAA A A X
+X   A     A     A A X
+XAA A AAAAAAAAAAAAA X
+X   A         A     X
+X AAAAAAAAA A AAA A X
+X         A A A   A X
+XAAAAAAAA A A A AAA X
+X           A   A   X
+XXXXXXXXXXXXXXXXX XXX
